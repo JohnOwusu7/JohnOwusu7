@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnOwusu199711&label=Profile%20views&color=0e75b6&style=flat" alt="JohnOwusu199711" /> </p>
 
- - 🔭I handle both front-end and back-end development, utilizing languages like HTML, CSS, JavaScript, Node.js, along with frameworks like React.js or Angular.js. I collaborate with cross-functional teams to deliver high-quality software solutions that meet business requirements and enhance user experience.**
+ - 🔭I handle both front-end and back-end development, utilizing languages like HTML, CSS, JavaScript, Node.js, python, along with frameworks like React.js and Angular.js Django, TensorFlow, Pandas. I collaborate with cross-functional teams to deliver high-quality software solutions that meet business requirements and enhance user experience.**
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JohnOwusu199711/JohnOwusu199711/main/code.gif" width="500" height="320" />
 
 - 💬 Talk to me about **Full-Stack Development, Front-End Web Development, Back-End Web Development, Software Engineering, Scaling Web Apps.**
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/John-Owusu-90898b117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="John-Owusu-90898b117" height="30" width="40" /></a>
-<a href="https://JohnOwusu.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="JohnOwusu.netlify.app" height="30" width="40" /></a>
+<a href="https://John-owusu-port.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="JohnOwusu.netlify.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
