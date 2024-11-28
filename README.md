@@ -8,7 +8,7 @@
 
 - 💬 Talk to me about **Full-Stack Development, Front-End Web Development, Back-End Web Development, Software Engineering, Scaling Web Apps, Mobile Application Development.**
 
-- 💻 I have previously worked as **a Software Engineer at Qaretech Innovative, Ghana. In this role, I was the team lead, responsible for the development and maintenance of Mobile Device Management (MDM) solutions for Qaretech Innovative. I utilized technologies such as JavaScript, TypeScript, Node.js, Express.js, MySQL, REST APIs, Git, Perforce, and Swagger to fulfill my responsibilities.
+- 💻 I have previously worked as **a Software Engineer at Qaretech Innovative, Ghana. In this role, I was the team lead, responsible for the development and maintenance of Mobile Device Management (MDM) solutions for Qaretech Innovative. I utilized technologies such as JavaScript, TypeScript, Node.js, Express.js, MySQL, REST APIs, Git, Perforce, and Swagger to fulfill my responsibilities.**
 
 - 👯 I’m looking to collaborate **on Opens Source Projects and Hackathons**
 
