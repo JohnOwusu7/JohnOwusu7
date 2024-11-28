@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JohnOwusu199711&label=Profile%20views&color=0e75b6&style=flat" alt="JohnOwusu199711" /> </p>
 
- - 🔭I handle both front-end and back-end development, utilizing languages like HTML, CSS, JavaScript, Node.js, python, along with frameworks like React.js and Angular.js Django, TensorFlow, Pandas. I collaborate with cross-functional teams to deliver high-quality software solutions that meet business requirements and enhance user experience.**
+ - 🔭I handle both front-end and back-end development, utilizing languages Python, JavaScript, Node.js, along with frameworks like React.js and Angular.js Django, TensorFlow, Pandas. I collaborate with cross-functional teams to deliver high-quality software solutions that meet business requirements and enhance user experience.
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JohnOwusu199711/JohnOwusu199711/main/code.gif" width="500" height="320" />
 
-- 💬 Talk to me about **Full-Stack Development, Front-End Web Development, Back-End Web Development, Software Engineering, Scaling Web Apps.**
+- 💬 Talk to me about **Full-Stack Development, Front-End Web Development, Back-End Web Development, Software Engineering, Scaling Web Apps, Mobile Application Development.**
 
-- 💻 I have previously worked as **a Software Engineer at Samsung Electronics in Noida, Ghana. In this role, I was a Backend developer in the Knox Service framework team, responsible for the development and maintenance of Mobile Device Management (MDM) solutions for Samsung Mobile's B2B clients. I utilized technologies such as JavaScript, TypeScript, Node.js, Express.js, MySQL, REST APIs, Git, Perforce, and Swagger to fulfill my responsibilities.**
+- 💻 I have previously worked as **a Software Engineer at Qaretech Innovative, Ghana. In this role, I was the team lead, responsible for the development and maintenance of Mobile Device Management (MDM) solutions for Qaretech Innovative. I utilized technologies such as JavaScript, TypeScript, Node.js, Express.js, MySQL, REST APIs, Git, Perforce, and Swagger to fulfill my responsibilities.
 
 - 👯 I’m looking to collaborate **on Opens Source Projects and Hackathons**
 
